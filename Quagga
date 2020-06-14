@@ -1,0 +1,7 @@
+https://www.brianlinkletter.com/how-to-build-a-network-of-linux-routers-using-quagga/
+
+
+# cp /usr/share/doc/quagga-core/examples/zebra.conf.sample /etc/quagga/zebra.conf
+# cp /usr/share/doc/quagga-core/examples/ospfd.conf.sample /etc/quagga/ospfd.conf
+# chown quagga.quaggavty /etc/quagga/*.conf
+# chmod 640 /etc/quagga/*.conf
